@@ -1,7 +1,7 @@
 # CRUD de Usuarios – Vue 3 + Vite
 
 ## 🚀 Link de la aplicación web en Producción:
-🔗 https://preeminent-mermaid-741c09.netlify.app/
+🔗 https://nick-atuncar-vue.netlify.app/
 
 ## 📹 Video Explicativo (Loom)
 🎥 https://loom.com/
