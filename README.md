@@ -1,5 +1,11 @@
 # CRUD de Usuarios – Vue 3 + Vite
 
+## 🚀 Link de la aplicación web en Producción:
+🔗 https://preeminent-mermaid-741c09.netlify.app/
+
+## 📹 Video Explicativo (Loom)
+🎥 https://loom.com/
+
 Aplicación web desarrollada como **ejercicio técnico** que implementa un **CRUD completo de usuarios** utilizando **Vue 3 (Composition API)** y **Vite**, consumiendo la API pública de JSONPlaceholder.
 
 El proyecto prioriza **buena arquitectura**, **código mantenible**, **experiencia de usuario** y **buenas prácticas** en Vue.js.
